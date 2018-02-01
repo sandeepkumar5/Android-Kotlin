@@ -1,1 +1,1 @@
-kotlin based android app of tictactoe game.
+kotlin based android app of tictactoe game.My first project in android and kotlin.
