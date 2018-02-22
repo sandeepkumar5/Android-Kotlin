@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TicTacToy</string>
+    <string name="app_name">Pockemon</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
