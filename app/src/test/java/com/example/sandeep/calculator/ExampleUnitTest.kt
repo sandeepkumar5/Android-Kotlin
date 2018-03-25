@@ -1,4 +1,4 @@
-package com.example.sandeep.pockemon
+package com.example.sandeep.calculator
 
 import org.junit.Test
 
